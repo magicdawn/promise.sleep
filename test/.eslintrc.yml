@@ -1,0 +1,6 @@
+# rules
+rules:
+  no-var: 2 # ES6 let & const
+
+parserOptions:
+  ecmaVersion: 6
