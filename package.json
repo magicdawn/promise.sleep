@@ -1,0 +1,33 @@
+{
+  "name": "promise.delay",
+  "version": "0.0.1",
+  "description": "promise.delay",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test-cover": "istabul cover _mocha -- -u exports"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magicdawn/promise.delay.git"
+  },
+  "keywords": [
+    "promise",
+    "delay",
+    "promise.delay"
+  ],
+  "author": "magicdawn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magicdawn/promise.delay/issues"
+  },
+  "homepage": "https://github.com/magicdawn/promise.delay#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "coveralls": "^2.11.9",
+    "eslint": "^2.10.1",
+    "istanbul": "^0.4.3",
+    "mocha": "^2.4.5",
+    "should": "^8.3.1"
+  }
+}
