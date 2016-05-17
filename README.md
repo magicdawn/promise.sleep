@@ -14,7 +14,11 @@ npm i promise.delay --save
 
 ## API
 ```
-const promiseDelay = require('promise.delay');
+const sleep = require('promise.delay');
+
+sleep(100).then(function(){
+  // blabla
+});
 ```
 
 ## Changelog
