@@ -4,8 +4,8 @@
  * Module dependencies
  */
 
-const assert = require('assert');
-const $ms = require('ms');
+var assert = require('assert');
+var $ms = require('ms');
 
 module.exports = function sleep(ms) {
   if (ms !== 0) {
