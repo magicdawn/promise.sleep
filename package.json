@@ -22,15 +22,14 @@
     "url": "https://github.com/magicdawn/promise.sleep/issues"
   },
   "homepage": "https://github.com/magicdawn/promise.sleep#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "co-mocha": "^1.1.2",
-    "eslint": "^2.10.1",
+    "codecov": "^1.0.1",
+    "eslint": "^3.6.0",
     "istanbul": "^0.4.3",
     "mocha": "^2.4.5",
-    "should": "^8.3.1",
-    "codecov": "^1.0.1"
+    "should": "^8.3.1"
   },
   "files": [
     "index.js",
