@@ -14,6 +14,8 @@
   "keywords": [
     "promise",
     "delay",
+    "sleep",
+    "promise.delay",
     "promise.sleep"
   ],
   "author": "magicdawn",

@@ -13,13 +13,30 @@ npm i promise.sleep --save
 ```
 
 ## API
-```
+
+### `sleep`
+
+```js
 const sleep = require('promise.sleep');
 
 sleep(100).then(function(){
   // blabla
 });
 ```
+
+### `sleep.Green`
+
+```js
+const Green = require('promise.sleep').Green;
+const green = new Green({
+  min: '1m',
+  max: '10m',
+  factor: '1m',
+});
+```
+
+- `green.idle()` sleep a while
+- `green.busy()` / `green.reset()` reset to `min`
 
 ## Changelog
 [CHANGELOG.md](CHANGELOG.md)
