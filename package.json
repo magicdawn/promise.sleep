@@ -22,7 +22,9 @@
     "url": "https://github.com/magicdawn/promise.sleep/issues"
   },
   "homepage": "https://github.com/magicdawn/promise.sleep#readme",
-  "dependencies": {},
+  "dependencies": {
+    "ms": "^0.7.1"
+  },
   "devDependencies": {
     "co-mocha": "^1.1.2",
     "codecov": "^1.0.1",
