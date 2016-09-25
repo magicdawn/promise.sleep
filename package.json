@@ -1,6 +1,6 @@
 {
   "name": "promise.sleep",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "promise.sleep",
   "main": "index.js",
   "scripts": {
