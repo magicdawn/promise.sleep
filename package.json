@@ -1,7 +1,7 @@
 {
-  "name": "promise.delay",
+  "name": "promise.sleep",
   "version": "0.0.1",
-  "description": "promise.delay",
+  "description": "promise.sleep",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
@@ -9,27 +9,28 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/magicdawn/promise.delay.git"
+    "url": "git+https://github.com/magicdawn/promise.sleep.git"
   },
   "keywords": [
     "promise",
     "delay",
-    "promise.delay"
+    "promise.sleep"
   ],
   "author": "magicdawn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/magicdawn/promise.delay/issues"
+    "url": "https://github.com/magicdawn/promise.sleep/issues"
   },
-  "homepage": "https://github.com/magicdawn/promise.delay#readme",
-  "dependencies": {},
+  "homepage": "https://github.com/magicdawn/promise.sleep#readme",
+  "dependencies": {
+  },
   "devDependencies": {
     "co-mocha": "^1.1.2",
-    "coveralls": "^2.11.9",
     "eslint": "^2.10.1",
     "istanbul": "^0.4.3",
     "mocha": "^2.4.5",
-    "should": "^8.3.1"
+    "should": "^8.3.1",
+    "codecov": "^1.0.1"
   },
   "files": [
     "index.js",
