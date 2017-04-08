@@ -1,4 +1,6 @@
 # promise.sleep
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicdawn/promise.sleep.svg)](https://greenkeeper.io/)
 > promise.sleep
 
 [![Build Status](https://img.shields.io/travis/magicdawn/promise.sleep.svg?style=flat-square)](https://travis-ci.org/magicdawn/promise.sleep)
