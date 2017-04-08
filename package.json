@@ -25,15 +25,15 @@
   },
   "homepage": "https://github.com/magicdawn/promise.sleep#readme",
   "dependencies": {
-    "ms": "^0.7.1"
+    "ms": "^1.0.0"
   },
   "devDependencies": {
     "co-mocha": "^1.1.2",
-    "codecov": "^1.0.1",
+    "codecov": "^2.1.0",
     "eslint": "^3.6.0",
     "istanbul": "^0.4.3",
-    "mocha": "^2.4.5",
-    "should": "^8.3.1"
+    "mocha": "^3.2.0",
+    "should": "^11.2.1"
   },
   "files": [
     "index.js",
